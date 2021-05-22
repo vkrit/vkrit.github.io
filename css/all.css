@@ -324,15 +324,18 @@ h2.slogan{
 	display: block;
 	font-family: 'novecentosanswide';
 	font-weight: normal;
-	font-size: 18px;
+	font-size: 12px;
 	padding: 0 0 0 20px;
 }
-.progress li span.photoshop{width: 100%;}
-.progress li span.illustrator{width: 70%;}
-.progress li span.indesign{width: 40%;}
-.progress li span.flash{width: 80%;}
-.progress li span.html{width: 75%;}
-.progress li span.wordpress{width: 85%;}
+.progress li span.py{width: 90%;}
+.progress li span.r{width: 90%;}
+.progress li span.pytorch{width: 80%;}
+.progress li span.tensorflow{width: 80%;}
+.progress li span.rapidminer{width: 90%;}
+.progress li span.deepl{width: 85%;}
+.progress li span.java{width: 70%;}
+.progress li span.c{width: 70%;}
+.progress li span.js{width: 80%;}
 .progress li span.jquery{width: 70%;}
 .progress li span.seo{width: 40%;}
 .plagin_list{
