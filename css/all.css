@@ -180,7 +180,7 @@ a:hover{text-decoration:underline;}
 }
 #nav ul li:first-child{padding: 0;}
 #nav ul a {
-	color: #aeecc2;
+	color: #6517cc;
 	font-size: 18px;
 	line-height: 20px;
 	text-transform: uppercase;
@@ -205,7 +205,7 @@ h2.slogan{
 	font-family: 'novecento_sans_widebook';
 	font-size: 30px;
 	line-height: 32px;
-	color: #aeecc2;
+	color: #6517cc;
 	padding: 34px 0 50px 0;
 	background: url(../images/slogan_bg.gif) no-repeat 50% 0;
 }
@@ -522,6 +522,7 @@ transition: all 0.5s ease-in-out;
 }
 .box_contact span.email{background: url(../images/icon_email2.png) no-repeat;}
 .box_contact span.phone{background: url(../images/icon_phone.png) no-repeat;}
+.box_contact span.line{background: url(../images/icon_line.png) no-repeat;}
 .box_contact span.skype{background: url(../images/icon_skype.png) no-repeat;}
 /*footer
  */
