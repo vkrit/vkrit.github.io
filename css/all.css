@@ -324,10 +324,10 @@ h2.slogan{
 	display: block;
 	font-family: 'novecentosanswide';
 	font-weight: normal;
-	font-size: 12px;
+	font-size: 14px;
 	padding: 0 0 0 20px;
 }
-.progress li span.py{width: 90%;}
+/* .progress li span.py{width: 90%;}
 .progress li span.r{width: 90%;}
 .progress li span.pytorch{width: 80%;}
 .progress li span.tensorflow{width: 80%;}
@@ -337,7 +337,7 @@ h2.slogan{
 .progress li span.c{width: 70%;}
 .progress li span.js{width: 80%;}
 .progress li span.jquery{width: 70%;}
-.progress li span.seo{width: 40%;}
+.progress li span.seo{width: 40%;} */
 .plagin_list{
 	width: 100%;
 	overflow: hidden;
