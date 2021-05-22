@@ -360,13 +360,13 @@ h2.slogan{
 	height: 100%;
 	position: relative;
 }
-.plagin_list li.li_1 a{background: url(../images/icon_ps.png) no-repeat 50% 50% ;}
-.plagin_list li.li_2 a{background: url(../images/icon_ai.png) no-repeat 50% 50% ;}
-.plagin_list li.li_3 a{background: url(../images/icon_ld.png) no-repeat 50% 50% ;}
-.plagin_list li.li_4 a{background: url(../images/icon_fl.png) no-repeat 50% 50% ;}
-.plagin_list li.li_5 a{background: url(../images/icon_html.png) no-repeat 50% 50% ;}
-.plagin_list li.li_6 a{background: url(../images/icon_wp.png) no-repeat 50% 50% ;}
-.plagin_list li.li_7 a{background: url(../images/icon_jq.png) no-repeat 50% 50% ;}
+.plagin_list li.li_1 a{background: url(../images/icon_py.png) no-repeat 50% 50% ;}
+.plagin_list li.li_2 a{background: url(../images/icon_r.png) no-repeat 50% 50% ;}
+.plagin_list li.li_3 a{background: url(../images/icon_rapid.png) no-repeat 50% 50% ;}
+.plagin_list li.li_4 a{background: url(../images/icon_tensor.png) no-repeat 50% 50% ;}
+.plagin_list li.li_5 a{background: url(../images/icon_pytorch.png) no-repeat 50% 50% ;}
+.plagin_list li.li_6 a{background: url(../images/icon_nlp.png) no-repeat 50% 50% ;}
+.plagin_list li.li_7 a{background: url(../images/icon_nlu.png) no-repeat 50% 50% ;}
 .plagin_list li.li_8 a{background: url(../images/icon_seo.png) no-repeat 50% 50% ;}
 .wrapper-holder.grey p{padding: 0 0 25px;}
 .plagin_list.none{display: none;}
